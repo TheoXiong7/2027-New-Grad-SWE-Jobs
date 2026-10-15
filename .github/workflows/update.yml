@@ -1,0 +1,71 @@
+# Mirror workflow for the swejoblists README repos (docs/github-mirror/SETUP.md).
+# Copy this file to .github/workflows/update.yml in BOTH mirror repos.
+#
+# Every 2 hours it downloads the README that swejoblists.com renders
+# (readme_export.py: /readme/internships.md or /readme/new-grad.md) and
+# commits it when it changed. The URL comes from the repo variable
+# README_URL; without it, the production URL for this repo's kind (a repo
+# whose name contains "new-grad" / "newgrad" mirrors the new grad list,
+# any other the internship list).
+name: Update README
+
+on:
+  schedule:
+    - cron: '7 */2 * * *'   # minute 7 of every 2nd hour (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download the README
+        env:
+          README_URL: ${{ vars.README_URL }}
+        run: |
+          set -euo pipefail
+          repo="$(echo "$GITHUB_REPOSITORY" | tr '[:upper:]' '[:lower:]')"
+          case "$repo" in
+            *new-grad*|*newgrad*) kind=new-grad ;;
+            *) kind=internships ;;
+          esac
+          url="${README_URL:-https://swejoblists.com/readme/$kind.md}"
+          echo "Fetching $url"
+          curl -fsSL --retry 3 --retry-delay 15 --retry-all-errors --max-time 60 --compressed \
+            -A "swejoblists-readme-mirror (+https://github.com/$GITHUB_REPOSITORY)" \
+            "$url" -o README.md.new
+          # Refuse anything that isn't the rendered README: an error page,
+          # an empty body, or a file GitHub would truncate (500 KB)
+          if [ "$(head -c 2 README.md.new)" != "# " ]; then
+            echo "Not a README: $(head -c 200 README.md.new)"
+            exit 1
+          fi
+          size=$(wc -c < README.md.new)
+          if [ "$size" -le 500 ] || [ "$size" -ge 500000 ]; then
+            echo "Unexpected size: $size bytes"
+            exit 1
+          fi
+          mv README.md.new README.md
+
+      - name: Commit when it changed
+        run: |
+          set -euo pipefail
+          git add README.md
+          # --cached: also true on the first run, when README.md was untracked
+          if git diff --cached --quiet; then
+            echo "README unchanged"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Update listings ($(date -u '+%Y-%m-%d %H:%M') UTC)"
+          git push
