@@ -1,10 +1,10 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-17 17:04 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-17 20:30 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**1,916 open roles** from **676 companies**, **1,467** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**1,918 open roles** from **676 companies**, **1,435** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -1011,7 +1011,7 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Embedded Security Software Engineer I - Onsite](https://swejoblists.com/jobs/embedded-security-software-engineer-i-onsite-raytheon-40347?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Tucson | No | Oct 9 |
 | [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Embedded Security Software Engineer I - Onsite](https://swejoblists.com/jobs/embedded-security-software-engineer-i-onsite-raytheon-40346?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | El Segundo | No | Oct 9 |
 
-Showing the first 1,000 of 1,916 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,916 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 1,918 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,918 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
