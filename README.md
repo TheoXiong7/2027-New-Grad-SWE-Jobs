@@ -1,15 +1,16 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-18 15:47 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-18 18:35 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**1,894 open roles** from **668 companies**, **1,431** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**1,895 open roles** from **669 companies**, **1,432** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Anton Paar](https://swejoblists.com/company/anton-paar?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Application & Market Development Specialist (m/f/d) 80–100% for French-speaking Switzerland](https://swejoblists.com/jobs/application-market-development-specialist-m-f-d-80100-for-french-speaking-anton-paar-45854?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Neuchâtel, NE, Switzerland | Unlikely | 0d |
 | [Clera](https://swejoblists.com/company/clera?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry-Level Robot Learning Engineer](https://swejoblists.com/jobs/entry-level-robot-learning-engineer-clera-45849?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Munich | No | 1d |
 | [Smiths Detection Group](https://swejoblists.com/company/smiths-detection-group?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Controls Engineer](https://swejoblists.com/jobs/controls-engineer-smiths-detection-group-45816?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Arden, North Carolina, United States | Unlikely | 1d |
 | [Renesas Electronics](https://swejoblists.com/company/renesas-electronics?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Graduate Field Applications Engineer](https://swejoblists.com/jobs/graduate-field-applications-engineer-renesas-electronics-45815?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Jose, CALIFORNIA, United States | Likely | 2d |
@@ -1009,9 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [GlobalFoundries](https://swejoblists.com/company/globalfoundries?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer New Grad](https://swejoblists.com/jobs/software-engineer-new-grad-globalfoundries-40505?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Austin | Likely | Oct 9 |
 | [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Embedded Software Engineer I - Onsite](https://swejoblists.com/jobs/embedded-software-engineer-i-onsite-raytheon-40349?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Fullerton | No | Oct 9 |
 | [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Web/Full Stack Software Engineer I - Onsite](https://swejoblists.com/jobs/web-full-stack-software-engineer-i-onsite-raytheon-40348?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Fullerton | No | Oct 9 |
-| [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Embedded Security Software Engineer I - Onsite](https://swejoblists.com/jobs/embedded-security-software-engineer-i-onsite-raytheon-40347?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Tucson | No | Oct 9 |
 
-Showing the first 1,000 of 1,894 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,894 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 1,895 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,895 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
