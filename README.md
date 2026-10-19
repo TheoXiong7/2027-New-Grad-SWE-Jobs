@@ -1,10 +1,10 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-19 19:50 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-19 23:34 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**1,930 open roles** from **666 companies**, **1,475** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**1,930 open roles** from **666 companies**, **1,473** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
