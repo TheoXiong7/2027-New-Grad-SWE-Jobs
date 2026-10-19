@@ -1,15 +1,17 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-19 04:31 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-19 12:59 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**1,885 open roles** from **661 companies**, **1,431** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**1,887 open roles** from **661 companies**, **1,433** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [IFS](https://swejoblists.com/company/ifs?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Undergraduate Trainee - AI Experience Delivery](https://swejoblists.com/jobs/undergraduate-trainee-ai-experience-delivery-ifs-45862?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Colombo, Western Province, Sri Lanka | Unlikely | 0d |
+| [Huntington Ingalls Industries](https://swejoblists.com/company/huntington-ingalls-industries?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1](https://swejoblists.com/jobs/software-engineer-1-huntington-ingalls-industries-45860?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Newport News | No | 0d |
 | [VTG](https://swejoblists.com/company/vtg?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Software Engineer](https://swejoblists.com/jobs/junior-software-engineer-vtg-45856?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Hanover | No | 0d |
 | [Anton Paar](https://swejoblists.com/company/anton-paar?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Application & Market Development Specialist (m/f/d) 80–100% for French-speaking Switzerland](https://swejoblists.com/jobs/application-market-development-specialist-m-f-d-80100-for-french-speaking-anton-paar-45854?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Neuchâtel, NE, Switzerland | Unlikely | 1d |
 | [Clera](https://swejoblists.com/company/clera?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry-Level Robot Learning Engineer](https://swejoblists.com/jobs/entry-level-robot-learning-engineer-clera-45849?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Munich | No | 2d |
@@ -1008,10 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Becton Dickinson and Company](https://swejoblists.com/company/becton-dickinson-and-company?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer I](https://swejoblists.com/jobs/software-engineer-i-becton-dickinson-and-company-40617?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Maryland | Likely | Oct 9 |
 | [AmTrust Insurance](https://swejoblists.com/company/amtrust-insurance?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer I](https://swejoblists.com/jobs/software-engineer-i-amtrust-insurance-40616?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Florida | Unlikely | Oct 9 |
 | [NVIDIA](https://swejoblists.com/company/nvidia?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [C++ Software Engineer - Infrastructure Tools - New College Grad 2027](https://swejoblists.com/jobs/c-software-engineer-infrastructure-tools-new-college-grad-2027-nvidia-40610?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Santa Clara | Likely | Oct 9 |
-| [GlobalFoundries](https://swejoblists.com/company/globalfoundries?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer New Grad](https://swejoblists.com/jobs/software-engineer-new-grad-globalfoundries-40505?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Austin | Likely | Oct 9 |
-| [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Embedded Software Engineer I - Onsite](https://swejoblists.com/jobs/embedded-software-engineer-i-onsite-raytheon-40349?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Fullerton | No | Oct 9 |
 
-Showing the first 1,000 of 1,885 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,885 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 1,887 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,887 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
