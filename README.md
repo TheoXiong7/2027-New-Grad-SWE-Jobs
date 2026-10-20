@@ -1,15 +1,17 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-20 04:40 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-20 11:26 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**1,940 open roles** from **669 companies**, **1,483** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**1,931 open roles** from **667 companies**, **1,474** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [ENSCO](https://swejoblists.com/company/ensco?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry Level Cyber Engineer](https://swejoblists.com/jobs/entry-level-cyber-engineer-ensco-45992?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Dayton, Ohio, United States | No | 1d |
+| [Credence](https://swejoblists.com/company/credence?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Cloud Platform Engineer- Entry Level](https://swejoblists.com/jobs/cloud-platform-engineer-entry-level-credence-45991?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | McLean, Virginia, United States | Unlikely | 1d |
 | [Palantir](https://swejoblists.com/company/palantir?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer New Grad - Query Engines](https://swejoblists.com/jobs/software-engineer-new-grad-query-engines-palantir-45989?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | NYC | Likely | 0d |
 | [Palantir](https://swejoblists.com/company/palantir?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer New Grad - Query Engines](https://swejoblists.com/jobs/software-engineer-new-grad-query-engines-palantir-45988?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | London | Unlikely | 0d |
 | [Applied Materials](https://swejoblists.com/company/applied-materials?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer New Grad](https://swejoblists.com/jobs/software-engineer-new-grad-applied-materials-45953?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Santa Clara | Likely | 1d |
@@ -1008,10 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [AbbVie](https://swejoblists.com/company/abbvie?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [2027 Operations Development Program (all genders) (3 years temporary / full-time)](https://swejoblists.com/jobs/2027-operations-development-program-all-genders-3-years-temporary-full-time-abbvie-42373?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Ludwigshafen, RP, Germany | Unlikely | Oct 12 |
 | [AbbVie](https://swejoblists.com/company/abbvie?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Werkstudent (all genders) - Supply Chain Data & Digitalization](https://swejoblists.com/jobs/werkstudent-all-genders-supply-chain-data-digitalization-abbvie-42372?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Ludwigshafen, RP, Germany | Unlikely | Oct 12 |
 | [AbbVie](https://swejoblists.com/company/abbvie?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Engineer, Technology I](https://swejoblists.com/jobs/associate-engineer-technology-i-abbvie-42371?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | North Chicago, IL, United States | Likely | Oct 12 |
-| [AbbVie](https://swejoblists.com/company/abbvie?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer, Quality](https://swejoblists.com/jobs/engineer-quality-abbvie-42370?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Tempe, AZ, United States | Likely | Oct 12 |
-| [AbbVie](https://swejoblists.com/company/abbvie?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Data Scientist I](https://swejoblists.com/jobs/associate-data-scientist-i-abbvie-42369?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | North Chicago, IL, United States | Likely | Oct 12 |
 
-Showing the first 1,000 of 1,940 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,940 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 1,931 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,931 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
