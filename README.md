@@ -1,15 +1,16 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-21 07:30 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-21 13:43 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,044 open roles** from **682 companies**, **1,535** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,045 open roles** from **682 companies**, **1,535** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [General Dynamics UK](https://swejoblists.com/company/general-dynamics-uk?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Systems Integration Engineer](https://swejoblists.com/jobs/junior-systems-integration-engineer-general-dynamics-uk-46287?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Oakdale, Wales, United Kingdom | Unlikely | 0d |
 | [Robert Bosch Venture Capital](https://swejoblists.com/company/robert-bosch-venture-capital?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Specialist Cybersecurity & OT Infrastructure (w/m/div.)](https://swejoblists.com/jobs/junior-specialist-cybersecurity-ot-infrastructure-w-m-div-robert-bosch-venture-capital-46283?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Linz, Oberösterreich, Austria | Unlikely | 0d |
 | [Robert Bosch Venture Capital](https://swejoblists.com/company/robert-bosch-venture-capital?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [CRM Junior Engineer with Devops](https://swejoblists.com/jobs/crm-junior-engineer-with-devops-robert-bosch-venture-capital-46282?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | telengana, , India | Unlikely | 0d |
 | [Anton Paar](https://swejoblists.com/company/anton-paar?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Application & Market Development Specialist (m/f/d) 100% for French-speaking Switzerland](https://swejoblists.com/jobs/application-market-development-specialist-m-f-d-100-for-french-speaking-anton-paar-46281?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Neuchâtel, NE, Switzerland | Unlikely | 0d |
@@ -1009,9 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Mattel](https://swejoblists.com/company/mattel?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Security Shift Supervisor - DC](https://swejoblists.com/jobs/security-shift-supervisor-dc-mattel-44633?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Fort Worth, TEXAS, United States | Unlikely | Oct 14 |
 | [Pinterest](https://swejoblists.com/company/pinterest?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [University Grad Machine Learning Engineer 2027 (Zurich)](https://swejoblists.com/jobs/university-grad-machine-learning-engineer-2027-zurich-pinterest-44193?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Zurich, CH | Unlikely | Oct 14 |
 | [Egis Group](https://swejoblists.com/company/egis-group?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Learning & Development Administrator](https://swejoblists.com/jobs/learning-development-administrator-egis-group-43868?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Bengaluru, KA, India | Unlikely | Oct 14 |
-| [Culina Group](https://swejoblists.com/company/culina-group?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Regional Engineer](https://swejoblists.com/jobs/regional-engineer-culina-group-43597?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Kingswinford, , United Kingdom | Unlikely | Oct 14 |
 
-Showing the first 1,000 of 2,044 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,044 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,045 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,045 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
