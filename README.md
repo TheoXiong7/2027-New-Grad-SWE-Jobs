@@ -1,10 +1,10 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-21 13:43 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-21 18:33 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,045 open roles** from **682 companies**, **1,535** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,046 open roles** from **682 companies**, **1,498** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -93,6 +93,7 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Tenet3](https://swejoblists.com/company/tenet3?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Frontend Software Engineer- Hybrid](https://swejoblists.com/jobs/junior-frontend-software-engineer-hybrid-tenet3-46115?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Dayton | Unlikely | 2d |
 | [SHI](https://swejoblists.com/company/shi?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Microsoft Cloud Billing & Operations Specialist](https://swejoblists.com/jobs/microsoft-cloud-billing-operations-specialist-shi-46113?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Somerset | Likely | 2d |
 | [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer I - Onsite](https://swejoblists.com/jobs/software-engineer-i-onsite-raytheon-46112?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Cedar Rapids | No | 2d |
+| [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer/Developer I - Onsite](https://swejoblists.com/jobs/software-engineer-developer-i-onsite-raytheon-46111?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Woburn | No | 2d |
 | [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer I - Onsite](https://swejoblists.com/jobs/software-engineer-i-onsite-raytheon-46110?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Cedar Rapids | No | 2d |
 | [Raytheon](https://swejoblists.com/company/raytheon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer I - Onsite](https://swejoblists.com/jobs/software-engineer-i-onsite-raytheon-46109?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Cedar Rapids | No | 2d |
 | [PulteGroup](https://swejoblists.com/company/pultegroup?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Developer](https://swejoblists.com/jobs/associate-developer-pultegroup-46108?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Tempe | Unlikely | 2d |
@@ -1009,9 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [RR Donnelley](https://swejoblists.com/company/rr-donnelley?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Operations Associate Development Program](https://swejoblists.com/jobs/operations-associate-development-program-rr-donnelley-44819?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Manchester, CT, United States | Unlikely | Oct 14 |
 | [Mattel](https://swejoblists.com/company/mattel?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Security Shift Supervisor - DC](https://swejoblists.com/jobs/security-shift-supervisor-dc-mattel-44633?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Fort Worth, TEXAS, United States | Unlikely | Oct 14 |
 | [Pinterest](https://swejoblists.com/company/pinterest?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [University Grad Machine Learning Engineer 2027 (Zurich)](https://swejoblists.com/jobs/university-grad-machine-learning-engineer-2027-zurich-pinterest-44193?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Zurich, CH | Unlikely | Oct 14 |
-| [Egis Group](https://swejoblists.com/company/egis-group?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Learning & Development Administrator](https://swejoblists.com/jobs/learning-development-administrator-egis-group-43868?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Bengaluru, KA, India | Unlikely | Oct 14 |
 
-Showing the first 1,000 of 2,045 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,045 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,046 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,046 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
