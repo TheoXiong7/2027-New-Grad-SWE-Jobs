@@ -1,15 +1,16 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-23 07:23 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-23 13:20 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,110 open roles** from **693 companies**, **664** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,111 open roles** from **693 companies**, **635** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [NielsenIQ](https://swejoblists.com/company/nielseniq?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Quantitative Research Analyst](https://swejoblists.com/jobs/quantitative-research-analyst-nielseniq-46663?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Shenzhen, GD, China | Unlikely | 0d |
 | [Stripe](https://swejoblists.com/company/stripe?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer, New Grad](https://swejoblists.com/jobs/software-engineer-new-grad-stripe-46657?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Taiwan | Unlikely | 0d |
 | [Amazon](https://swejoblists.com/company/amazon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Development Engineer – Early Career](https://swejoblists.com/jobs/software-development-engineer-early-career-amazon-46637?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Vancouver | Unlikely | 0d |
 | [Amazon](https://swejoblists.com/company/amazon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Development Engineer 1 Early Career - Annapurna Labs](https://swejoblists.com/jobs/software-development-engineer-1-early-career-annapurna-labs-amazon-46636?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | 4 locationsSeattle | Likely | 0d |
@@ -1009,9 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Akuna Capital](https://swejoblists.com/company/akuna-capital?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer (Entry-Level) - C++](https://swejoblists.com/jobs/software-engineer-entry-level-c-akuna-capital-42335?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Chicago, IL | Yes | Oct 16 |
 | [DataVisor](https://swejoblists.com/company/datavisor?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer - Canada](https://swejoblists.com/jobs/software-engineer-canada-datavisor-42329?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Vancouver, British Columbia, Canada | Unlikely | Oct 16 |
 | [DataVisor](https://swejoblists.com/company/datavisor?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer](https://swejoblists.com/jobs/software-engineer-datavisor-42328?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Mountain View, California, United States | Likely | Oct 16 |
-| [DataVisor](https://swejoblists.com/company/datavisor?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Data Scientist, Fraud Analytics](https://swejoblists.com/jobs/data-scientist-fraud-analytics-datavisor-42327?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Mountain View, California, United States | Likely | Oct 16 |
 
-Showing the first 1,000 of 2,110 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,110 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,111 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,111 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
