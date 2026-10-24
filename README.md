@@ -1,15 +1,16 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-24 10:50 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-24 15:51 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,131 open roles** from **692 companies**, **413** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,132 open roles** from **692 companies**, **414** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [RTX](https://swejoblists.com/company/rtx?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer 1 - Software Engineer - Test Engineering](https://swejoblists.com/jobs/engineer-1-software-engineer-test-engineering-rtx-46869?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Burnsville | No | 1d |
 | [Citi](https://swejoblists.com/company/citi?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Application Development Analyst New Grad](https://swejoblists.com/jobs/application-development-analyst-new-grad-citi-46830?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Jersey City | No | 1d |
 | [Citi](https://swejoblists.com/company/citi?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Developer New Grad - Application Development](https://swejoblists.com/jobs/software-developer-new-grad-application-development-citi-46829?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Jacksonville | No | 1d |
 | [Meijer](https://swejoblists.com/company/meijer?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1, AI](https://swejoblists.com/jobs/software-engineer-1-ai-meijer-46828?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Grand Rapids | Unlikely | 1d |
@@ -1009,9 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [BGE](https://swejoblists.com/company/bge?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [CHARLOTTE - Land/Site Development, New Grad](https://swejoblists.com/jobs/charlotte-land-site-development-new-grad-bge-42677?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | 1111 Metropolitan Avenue, Suite 250, Charlotte, North Carolina 28204 | No | Oct 16 |
 | [BGE](https://swejoblists.com/company/bge?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [ATLANTA - Land/Site Development, New Grad](https://swejoblists.com/jobs/atlanta-land-site-development-new-grad-bge-42675?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | 245 TownPark Drive, Suite 470, Kennesaw, Georgia 30144 | No | Oct 16 |
 | [Cogent Security](https://swejoblists.com/company/cogent-security?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Forward Deployed Agent Engineer, Early Career](https://swejoblists.com/jobs/forward-deployed-agent-engineer-early-career-cogent-security-42665?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York, NY | Likely | Oct 16 |
-| [Saalex](https://swejoblists.com/company/saalex?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Systems Engineer I](https://swejoblists.com/jobs/systems-engineer-i-saalex-42664?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Tidewater, Virginia, United States | No | Oct 16 |
 
-Showing the first 1,000 of 2,131 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,131 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,132 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,132 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
