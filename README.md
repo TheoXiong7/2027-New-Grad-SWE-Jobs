@@ -1,10 +1,10 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-24 04:27 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-24 10:50 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,139 open roles** from **693 companies**, **441** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,131 open roles** from **692 companies**, **413** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -1011,7 +1011,7 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Cogent Security](https://swejoblists.com/company/cogent-security?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Forward Deployed Agent Engineer, Early Career](https://swejoblists.com/jobs/forward-deployed-agent-engineer-early-career-cogent-security-42665?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York, NY | Likely | Oct 16 |
 | [Saalex](https://swejoblists.com/company/saalex?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Systems Engineer I](https://swejoblists.com/jobs/systems-engineer-i-saalex-42664?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Tidewater, Virginia, United States | No | Oct 16 |
 
-Showing the first 1,000 of 2,139 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,139 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,131 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,131 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
