@@ -1,15 +1,18 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-26 04:36 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-26 12:50 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,134 open roles** from **699 companies**, **444** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,135 open roles** from **699 companies**, **445** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Motia](https://swejoblists.com/company/motia?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Graduate Data Scientist](https://swejoblists.com/jobs/graduate-data-scientist-motia-46954?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Leeds, England, United Kingdom | No | 0d |
+| [Adler & Allan](https://swejoblists.com/company/adler-allan?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Civils Drainage Engineer](https://swejoblists.com/jobs/civils-drainage-engineer-adler-allan-46953?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Rochford, England, United Kingdom | Unlikely | 0d |
+| [AECOM](https://swejoblists.com/company/aecom?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry-Level Traction Power Engineer](https://swejoblists.com/jobs/entry-level-traction-power-engineer-aecom-46952?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Philadelphia, PA, United States | No | 0d |
 | [Clera](https://swejoblists.com/company/clera?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [GTM Engineer, Junior to Mid-Level](https://swejoblists.com/jobs/gtm-engineer-junior-to-mid-level-clera-46950?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Berlin | No | 1d |
 | [Point72](https://swejoblists.com/company/point72?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [2027 Software Engineer - Campus Graduate Program - IIT Madras](https://swejoblists.com/jobs/2027-software-engineer-campus-graduate-program-iit-madras-point72-46949?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | India, Bengaluru | Unlikely | 1d |
 | [Point72](https://swejoblists.com/company/point72?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [2027 Software Engineer - Campus Graduate Program - IIT Kanpur](https://swejoblists.com/jobs/2027-software-engineer-campus-graduate-program-iit-kanpur-point72-46948?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | India, Bengaluru | Unlikely | 1d |
@@ -1007,11 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Datalab USA](https://swejoblists.com/company/datalab-usa?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Programmer Analyst - Marketing Analytics](https://swejoblists.com/jobs/programmer-analyst-marketing-analytics-datalab-usa-42795?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Germantown, MD | No | Oct 16 |
 | [Datalab USA](https://swejoblists.com/company/datalab-usa?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Production Programmer - Entry Level SQL Developer](https://swejoblists.com/jobs/production-programmer-entry-level-sql-developer-datalab-usa-42793?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Germantown, MD | No | Oct 16 |
 | [Valsoft](https://swejoblists.com/company/valsoft?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Développeur en IA - Québec \| AI Developer - Quebec](https://swejoblists.com/jobs/developpeur-en-ia-quebec-ai-developer-quebec-valsoft-42792?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Quebec, Canada | Unlikely | Oct 16 |
-| [Valsoft](https://swejoblists.com/company/valsoft?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [AI Automation Engineer - H&L](https://swejoblists.com/jobs/ai-automation-engineer-h-l-valsoft-42791?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Beirut, Beirut Governorate, Lebanon | Unlikely | Oct 16 |
-| [AO Swag](https://swejoblists.com/company/ao-swag?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [C\# .Net Entry Level Web Developer Less Than 5 Years’ experience](https://swejoblists.com/jobs/c-net-entry-level-web-developer-less-than-5-years-experience-ao-swag-42780?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Coppell, TX, United States | Unlikely | Oct 16 |
-| [Trexquant](https://swejoblists.com/company/trexquant?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Quantitative Researcher - Early Career (USA)](https://swejoblists.com/jobs/quantitative-researcher-early-career-usa-trexquant-42778?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York, New York, United States | Likely | Oct 16 |
 
-Showing the first 1,000 of 2,134 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,134 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,135 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,135 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
