@@ -1,15 +1,18 @@
 # 2027 New Grad Software Engineer Jobs
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-29 19:33 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-29 23:54 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,334 open roles** from **745 companies**, **414** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,337 open roles** from **746 companies**, **392** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [RTX](https://swejoblists.com/company/rtx?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1](https://swejoblists.com/jobs/software-engineer-1-rtx-47744?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Jose | No | 0d |
+| [Thoughtworks](https://swejoblists.com/company/thoughtworks?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Developer New Grad](https://swejoblists.com/jobs/software-developer-new-grad-thoughtworks-47743?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Chicago | No | 0d |
+| [Intelliforce-IT Solutions Group](https://swejoblists.com/company/intelliforce-it-solutions-group?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Software Engineer - Prime](https://swejoblists.com/jobs/junior-software-engineer-prime-intelliforce-it-solutions-group-47742?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Annapolis Junction | No | 0d |
 | [Walmart](https://swejoblists.com/company/walmart?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer](https://swejoblists.com/jobs/software-engineer-walmart-47711?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Sunnyvale | Likely | 0d |
 | [Walmart](https://swejoblists.com/company/walmart?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer III](https://swejoblists.com/jobs/software-engineer-iii-walmart-47710?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Bentonville | Likely | 0d |
 | [Walmart](https://swejoblists.com/company/walmart?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer](https://swejoblists.com/jobs/software-engineer-walmart-47709?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Sunnyvale | Likely | 0d |
@@ -1007,11 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Egis Group](https://swejoblists.com/company/egis-group?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Water Resources Engineer](https://swejoblists.com/jobs/water-resources-engineer-egis-group-43879?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Ottawa, ON, Canada | Unlikely | Oct 16 |
 | [Egis Group](https://swejoblists.com/company/egis-group?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Water Resources Engineer](https://swejoblists.com/jobs/water-resources-engineer-egis-group-43878?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Hamilton, ON, Canada | Unlikely | Oct 16 |
 | [Sierra](https://swejoblists.com/company/sierra?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer, Agent (New Grad 2027)](https://swejoblists.com/jobs/software-engineer-agent-new-grad-2027-sierra-43849?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Singapore | Unlikely | Oct 16 |
-| [Sierra](https://swejoblists.com/company/sierra?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer, Agent (New Grad 2027)](https://swejoblists.com/jobs/software-engineer-agent-new-grad-2027-sierra-43847?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Francisco, CA | Likely | Oct 16 |
-| [Sentry](https://swejoblists.com/company/sentry?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer, New Grad (2027)](https://swejoblists.com/jobs/software-engineer-new-grad-2027-sentry-43839?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Vienna, Austria | Unlikely | Oct 16 |
-| [McMaster-Carr](https://swejoblists.com/company/mcmaster-carr?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Technology, Development, & Design](https://swejoblists.com/jobs/technology-development-design-mcmaster-carr-43837?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Chicago, Illinois (Elmhurst) | No | Oct 16 |
 
-Showing the first 1,000 of 2,334 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,334 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,337 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,337 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
