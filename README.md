@@ -1,15 +1,16 @@
 # 2027 New Grad Software Engineer Jobs
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-31 18:28 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-10-31 23:19 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,430 open roles** from **780 companies**, **487** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,432 open roles** from **780 companies**, **488** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Colliers](https://swejoblists.com/company/colliers?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Deskside Support Engineer](https://swejoblists.com/jobs/deskside-support-engineer-colliers-48116?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | London, England, United Kingdom | Unlikely | 0d |
 | [Zefr](https://swejoblists.com/company/zefr?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer](https://swejoblists.com/jobs/software-engineer-zefr-48099?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Marina del Rey | Likely | 0d |
 | [Path Robotics](https://swejoblists.com/company/path-robotics?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer - C++](https://swejoblists.com/jobs/software-engineer-c-path-robotics-48098?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Columbus | Likely | 0d |
 | [Northrop Grumman](https://swejoblists.com/company/northrop-grumman?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Software Engineer - Hollywood - MD](https://swejoblists.com/jobs/associate-software-engineer-hollywood-md-northrop-grumman-48097?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Maryland | No | 0d |
@@ -1009,9 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Verkada](https://swejoblists.com/company/verkada?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Technical Support Engineer - University Graduate 2026](https://swejoblists.com/jobs/technical-support-engineer-university-graduate-2026-verkada-44631?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Mateo, CA United States | Yes | Oct 16 |
 | [Verkada](https://swejoblists.com/company/verkada?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer, Platform Infrastructure](https://swejoblists.com/jobs/software-engineer-platform-infrastructure-verkada-44628?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Mateo, CA United States | Yes | Oct 16 |
 | [Verkada](https://swejoblists.com/company/verkada?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer - Data Platform](https://swejoblists.com/jobs/software-engineer-data-platform-verkada-44627?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Mateo, CA United States | Yes | Oct 16 |
-| [Verkada](https://swejoblists.com/company/verkada?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer - Computer Vision](https://swejoblists.com/jobs/software-engineer-computer-vision-verkada-44626?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Mateo, CA United States | Yes | Oct 16 |
 
-Showing the first 1,000 of 2,430 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,430 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,432 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,432 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
