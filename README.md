@@ -1,15 +1,17 @@
 # 2027 New Grad Software Engineer Jobs
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-06 02:19 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-06 12:00 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,419 open roles** from **767 companies**, **409** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,397 open roles** from **765 companies**, **394** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Société Générale de Surveillance (SGS)](https://swejoblists.com/company/societe-generale-de-surveillance-sgs?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Application and SQL Developer](https://swejoblists.com/jobs/junior-application-and-sql-developer-societe-generale-de-surveillance-sgs-48822?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Muntinlupa, NCR, Philippines | Unlikely | 0d |
+| [Smiths Detection Group](https://swejoblists.com/company/smiths-detection-group?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer - Programmer](https://swejoblists.com/jobs/engineer-programmer-smiths-detection-group-48813?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Bengaluru, KA, India | Unlikely | 0d |
 | [StubHub](https://swejoblists.com/company/stubhub?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer New Grad - Consumer Experience](https://swejoblists.com/jobs/software-engineer-new-grad-consumer-experience-stubhub-48781?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | NYC | Likely | 0d |
 | [Amazon](https://swejoblists.com/company/amazon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Development Engineer – Early Career](https://swejoblists.com/jobs/software-development-engineer-early-career-amazon-48780?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Redmond | No | 1d |
 | [J.S. Held](https://swejoblists.com/company/j-s-held?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Forensic Engineering Specialist](https://swejoblists.com/jobs/junior-forensic-engineering-specialist-j-s-held-48779?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Oakville, ON, Canada | Unlikely | 1d |
@@ -1008,10 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [UK Atomic Energy Authority](https://swejoblists.com/company/uk-atomic-energy-authority?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Graduate HPC Computational Engineer](https://swejoblists.com/jobs/graduate-hpc-computational-engineer-uk-atomic-energy-authority-45901?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Abingdon, Oxfordshire, United Kingdom | Unlikely | Oct 19 |
 | [UK Atomic Energy Authority](https://swejoblists.com/company/uk-atomic-energy-authority?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Graduate Knowledge Engineer](https://swejoblists.com/jobs/graduate-knowledge-engineer-uk-atomic-energy-authority-45900?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Abingdon, Oxfordshire, United Kingdom | Unlikely | Oct 19 |
 | [UK Atomic Energy Authority](https://swejoblists.com/company/uk-atomic-energy-authority?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Graduate Systems Engineer](https://swejoblists.com/jobs/graduate-systems-engineer-uk-atomic-energy-authority-45899?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Abingdon, Oxfordshire, United Kingdom | Unlikely | Oct 19 |
-| [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [GRC CYBERSECURITY - W2 position](https://swejoblists.com/jobs/grc-cybersecurity-w2-position-syncreon-consulting-45898?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Pittsburgh, PA, United States | Unlikely | Oct 19 |
-| [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [AI Infrastructure Engineer — NVIDIA V100 or A100](https://swejoblists.com/jobs/ai-infrastructure-engineer-nvidia-v100-or-a100-syncreon-consulting-45897?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York, NY, United States | Likely | Oct 19 |
 
-Showing the first 1,000 of 2,419 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,419 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,397 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,397 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
