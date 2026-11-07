@@ -1,15 +1,16 @@
 # 2027 New Grad Software Engineer Jobs
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-07 05:51 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-07 12:52 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,417 open roles** from **761 companies**, **366** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,383 open roles** from **758 companies**, **367** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Provectus](https://swejoblists.com/company/provectus?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior AI/ML Engineer (GenAI, AWS)](https://swejoblists.com/jobs/junior-ai-ml-engineer-genai-aws-provectus-49019?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Ukraine | Unlikely | 0d |
 | [AbbVie](https://swejoblists.com/company/abbvie?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Software Engineer 1](https://swejoblists.com/jobs/associate-software-engineer-1-abbvie-49013?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | North Chicago | Likely | 0d |
 | [Charles Schwab](https://swejoblists.com/company/charles-schwab?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Software Developer](https://swejoblists.com/jobs/junior-software-developer-charles-schwab-48988?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Austin | Likely | 1d |
 | [Cook Group](https://swejoblists.com/company/cook-group?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1 - Full-Stack](https://swejoblists.com/jobs/software-engineer-1-full-stack-cook-group-48987?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Indianapolis | Likely | 1d |
@@ -1009,9 +1010,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Weekday AI](https://swejoblists.com/company/weekday-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Data Scientist](https://swejoblists.com/jobs/data-scientist-weekday-ai-47950?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Bengaluru, Karnataka, India | Unlikely | Oct 19 |
 | [Banner Health](https://swejoblists.com/company/banner-health?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [DevOps Engineer 1](https://swejoblists.com/jobs/devops-engineer-1-banner-health-47040?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Arizona | Unlikely | Oct 19 |
 | [Eurofins](https://swejoblists.com/company/eurofins?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry Level Laboratory Data Review](https://swejoblists.com/jobs/entry-level-laboratory-data-review-eurofins-46261?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Columbia, MO, United States | No | Oct 19 |
-| [NVIDIA](https://swejoblists.com/company/nvidia?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer New Grad - Agent Performance Modeling 🎓](https://swejoblists.com/jobs/software-engineer-new-grad-agent-performance-modeling-nvidia-46242?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Santa Clara | Likely | Oct 20 |
 
-Showing the first 1,000 of 2,417 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,417 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,383 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,383 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
