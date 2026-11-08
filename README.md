@@ -1,10 +1,10 @@
 # 2027 New Grad Software Engineer Jobs
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-08 05:52 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-08 13:14 UTC.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,331 open roles** from **739 companies**, **334** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,329 open roles** from **739 companies**, **332** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -1011,7 +1011,7 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Weekday AI](https://swejoblists.com/company/weekday-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Data Scientist](https://swejoblists.com/jobs/junior-data-scientist-weekday-ai-47954?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | India | Unlikely | Oct 19 |
 | [Weekday AI](https://swejoblists.com/company/weekday-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Data Scientist](https://swejoblists.com/jobs/data-scientist-weekday-ai-47950?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Bengaluru, Karnataka, India | Unlikely | Oct 19 |
 
-Showing the first 1,000 of 2,331 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,331 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,329 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,329 on [swejoblists.com/new-grad](https://swejoblists.com/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
