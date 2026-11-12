@@ -1,12 +1,19 @@
 # Mirror workflow for the swejoblists README repos (docs/github-mirror/SETUP.md).
 # Copy this file to .github/workflows/update.yml in BOTH mirror repos.
 #
-# Every 2 hours it downloads the README that swejoblists.com renders
-# (readme_export.py: /readme/internships.md or /readme/new-grad.md) and
-# commits it when it changed. The URL comes from the repo variable
-# README_URL; without it, the production URL for this repo's kind (a repo
-# whose name contains "new-grad" / "newgrad" mirrors the new grad list,
-# any other the internship list).
+# Every 2 hours it downloads the two documents swejoblists.com renders for
+# this repo's kind (readme_export.py) and commits both in one commit when
+# they changed:
+#   README.md     <- /readme/<kind>.md      (H-1B Yes / Likely roles only)
+#   ALL_ROLES.md  <- /readme/<kind>-all.md  (every open role)
+# The README URL comes from the repo variable README_URL; without it, the
+# production URL for this repo's kind (a repo whose name contains
+# "new-grad" / "newgrad" mirrors the new grad list, any other the
+# internship list). The full list URL comes from ALL_ROLES_URL; without it,
+# the README URL with "-all" before ".md".
+# Both files are downloaded and checked before either replaces the
+# committed copy: one failed download or check fails the run and commits
+# nothing.
 name: Update README
 
 on:
@@ -28,9 +35,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download the README
+      - name: Download the README and the full list
         env:
           README_URL: ${{ vars.README_URL }}
+          ALL_ROLES_URL: ${{ vars.ALL_ROLES_URL }}
         run: |
           set -euo pipefail
           repo="$(echo "$GITHUB_REPOSITORY" | tr '[:upper:]' '[:lower:]')"
@@ -38,31 +46,40 @@ jobs:
             *new-grad*|*newgrad*) kind=new-grad ;;
             *) kind=internships ;;
           esac
-          url="${README_URL:-https://swejoblists.com/readme/$kind.md}"
-          echo "Fetching $url"
-          curl -fsSL --retry 3 --retry-delay 15 --retry-all-errors --max-time 60 --compressed \
-            -A "swejoblists-readme-mirror (+https://github.com/$GITHUB_REPOSITORY)" \
-            "$url" -o README.md.new
-          # Refuse anything that isn't the rendered README: an error page,
-          # an empty body, or a file GitHub would truncate (500 KB)
-          if [ "$(head -c 2 README.md.new)" != "# " ]; then
-            echo "Not a README: $(head -c 200 README.md.new)"
-            exit 1
-          fi
-          size=$(wc -c < README.md.new)
-          if [ "$size" -le 500 ] || [ "$size" -ge 500000 ]; then
-            echo "Unexpected size: $size bytes"
-            exit 1
-          fi
+          readme_url="${README_URL:-https://swejoblists.com/readme/$kind.md}"
+          all_url="${ALL_ROLES_URL:-${readme_url%.md}-all.md}"
+
+          # fetch URL FILE: download to FILE.new and refuse anything that
+          # isn't a rendered document: an error page, an empty body, or a
+          # file GitHub would truncate (500 KB)
+          fetch() {
+            echo "Fetching $1"
+            curl -fsSL --retry 3 --retry-delay 15 --retry-all-errors --max-time 60 --compressed \
+              -A "swejoblists-readme-mirror (+https://github.com/$GITHUB_REPOSITORY)" \
+              "$1" -o "$2.new" || { echo "Download failed: $1"; exit 1; }
+            if [ "$(head -c 2 "$2.new")" != "# " ]; then
+              echo "Not a $2: $(head -c 200 "$2.new")"
+              exit 1
+            fi
+            size=$(wc -c < "$2.new")
+            if [ "$size" -le 500 ] || [ "$size" -ge 500000 ]; then
+              echo "Unexpected size of $2: $size bytes"
+              exit 1
+            fi
+          }
+          fetch "$readme_url" README.md
+          fetch "$all_url" ALL_ROLES.md
+          # Only now, with both checked, replace the committed copies
           mv README.md.new README.md
+          mv ALL_ROLES.md.new ALL_ROLES.md
 
       - name: Commit when it changed
         run: |
           set -euo pipefail
-          git add README.md
-          # --cached: also true on the first run, when README.md was untracked
+          git add README.md ALL_ROLES.md
+          # --cached: also true on the first run, when a file was untracked
           if git diff --cached --quiet; then
-            echo "README unchanged"
+            echo "README and ALL_ROLES unchanged"
             exit 0
           fi
           git config user.name 'github-actions[bot]'
