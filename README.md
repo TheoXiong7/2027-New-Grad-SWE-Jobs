@@ -1,17 +1,19 @@
 # 2027 New Grad Software Engineer Jobs
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-12 09:43 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-12 18:12 UTC.
 
 This list shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely. Every open role, whatever its label, is in [ALL_ROLES.md](ALL_ROLES.md).
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**Showing 677 of 2,383 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **293 companies**, **151** added in the last 7 days. The other 1,706 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**Showing 679 of 2,405 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **293 companies**, **150** added in the last 7 days. The other 1,726 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely = how likely the employer sponsors an H-1B visa for the role. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Infrastructure Solution Engineer - ServiceNow development Experience](https://swejoblists.com/jobs/infrastructure-solution-engineer-servicenow-development-experience-syncreon-consulting-49711?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Pittsburgh, PA, United States | 🟡 Likely | 0d |
+| [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Infrastructure Solutions Engineering (AI & Automation) - Java, Spring Boot, Python, APIs](https://swejoblists.com/jobs/infrastructure-solutions-engineering-ai-automation-java-spring-boot-python-apis-syncreon-consulting-49708?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York, NY, United States | 🟡 Likely | 0d |
 | [Bask Health](https://swejoblists.com/company/bask-health?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Frontend Engineer New Grad](https://swejoblists.com/jobs/frontend-engineer-new-grad-bask-health-49689?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Remote in USA | 🟡 Likely | 0d |
 | [Bask](https://swejoblists.com/company/bask?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Design Engineer](https://swejoblists.com/jobs/junior-design-engineer-bask-49687?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | United States | 🟡 Likely | 0d |
 | [Bask](https://swejoblists.com/company/bask?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Frontend Engineer, New Grad](https://swejoblists.com/jobs/frontend-engineer-new-grad-bask-49686?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | United States | 🟡 Likely | 0d |
