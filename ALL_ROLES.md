@@ -1,12 +1,12 @@
 # 2027 New Grad Software Engineer Jobs: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-12 00:22 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-12 00:33 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,395 open roles** from **764 companies**, **431** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,395 open roles** from **764 companies**, **430** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
