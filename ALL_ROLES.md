@@ -1,17 +1,21 @@
 # 2027 New Grad Software Engineer Jobs: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-13 01:00 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-13 09:26 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,376 open roles** from **754 companies**, **375** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,337 open roles** from **748 companies**, **377** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1 New Grad](https://swejoblists.com/jobs/software-engineer-1-new-grad-shield-ai-49800?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Washington | 🔴 No | 0d |
+| [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer I, Software - New Grad - 6531](https://swejoblists.com/jobs/engineer-i-software-new-grad-6531-shield-ai-49799?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Washington, D.C. | 🔴 No | 0d |
+| [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer I, Software - New Grad - 6531](https://swejoblists.com/jobs/engineer-i-software-new-grad-6531-shield-ai-49798?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Washington, D.C. | 🔴 No | 0d |
+| [RTX](https://swejoblists.com/company/rtx?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1](https://swejoblists.com/jobs/software-engineer-1-rtx-49801?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Marlborough | 🔴 No | 1d |
 | [Affirm](https://swejoblists.com/company/affirm?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1 - Backend - Continuous Delivery](https://swejoblists.com/jobs/software-engineer-1-backend-continuous-delivery-affirm-49780?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Remote in USA | 🟡 Likely | 0d |
 | [Affirm](https://swejoblists.com/company/affirm?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1 - Backend - Continuous Delivery](https://swejoblists.com/jobs/software-engineer-1-backend-continuous-delivery-affirm-49779?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Remote in Canada | 🟠 Unlikely | 0d |
 | [Hewlett Packard Enterprise](https://swejoblists.com/company/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Systems/Software Engineer 1](https://swejoblists.com/jobs/systems-software-engineer-1-hewlett-packard-enterprise-49770?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Sunnyvale | 🟡 Likely | 1d |
@@ -1008,12 +1012,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [OmegaHires](https://swejoblists.com/company/omegahires?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry-Level Java Software Developer](https://swejoblists.com/jobs/entry-level-java-software-developer-omegahires-46735?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | USA | 🟠 Unlikely | Oct 23 |
 | [OmegaHires](https://swejoblists.com/company/omegahires?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Java Full-Stack Developer](https://swejoblists.com/jobs/java-full-stack-developer-omegahires-46734?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | USA | 🟠 Unlikely | Oct 23 |
 | [Esri](https://swejoblists.com/company/esri?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Development Engineer](https://swejoblists.com/jobs/software-development-engineer-esri-46733?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Washington | 🟠 Unlikely | Oct 23 |
-| [Expeditors](https://swejoblists.com/company/expeditors?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Logistics Security Agent - Cargo Signal](https://swejoblists.com/jobs/logistics-security-agent-cargo-signal-expeditors-46699?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Mabalacat, PAMPANGA, Philippines | 🟠 Unlikely | Oct 23 |
-| [Boyd Gaming](https://swejoblists.com/company/boyd-gaming?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Casino Maintenance Engineer - FT](https://swejoblists.com/jobs/casino-maintenance-engineer-ft-boyd-gaming-46698?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | King of Prussia, PA, United States | 🟠 Unlikely | Oct 23 |
-| [AECOM](https://swejoblists.com/company/aecom?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry-Level Civil/Highway Engineer](https://swejoblists.com/jobs/entry-level-civil-highway-engineer-aecom-46692?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Morgantown, WV, United States | 🔴 No | Oct 23 |
-| [Wavestone](https://swejoblists.com/company/wavestone?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Consultant·e Cybersécurité - Marseille - CDI](https://swejoblists.com/jobs/consultante-cybersecurite-marseille-cdi-wavestone-46688?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Marseille, Provence-​Alpes-​Côte d'Azur, France | 🟠 Unlikely | Oct 23 |
 
-Showing the first 1,000 of 2,376 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,376 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,337 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,337 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
