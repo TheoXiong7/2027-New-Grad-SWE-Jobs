@@ -1,17 +1,20 @@
 # 2027 New Grad Software Engineer Jobs
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-13 09:26 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-13 17:39 UTC.
 
 This list shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely. Every open role, whatever its label, is in [ALL_ROLES.md](ALL_ROLES.md).
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**Showing 664 of 2,337 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **286 companies**, **130** added in the last 7 days. The other 1,673 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**Showing 667 of 2,351 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **287 companies**, **126** added in the last 7 days. The other 1,684 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely = how likely the employer sponsors an H-1B visa for the role. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [bet365](https://swejoblists.com/company/bet365?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Machine Learning Engineer](https://swejoblists.com/jobs/machine-learning-engineer-bet365-49822?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Denver, Colorado, United States | 🟡 Likely | 0d |
+| [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Infrastructure Solution Engineer - ServiceNow development Experience](https://swejoblists.com/jobs/infrastructure-solution-engineer-servicenow-development-experience-syncreon-consulting-49817?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Pittsburgh, PA, United States | 🟡 Likely | 0d |
+| [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Infrastructure Solutions Engineering (AI & Automation) - Java, Spring Boot, Python, APIs](https://swejoblists.com/jobs/infrastructure-solutions-engineering-ai-automation-java-spring-boot-python-apis-syncreon-consulting-49816?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York, NY, United States | 🟡 Likely | 0d |
 | [Affirm](https://swejoblists.com/company/affirm?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1 - Backend - Continuous Delivery](https://swejoblists.com/jobs/software-engineer-1-backend-continuous-delivery-affirm-49780?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Remote in USA | 🟡 Likely | 0d |
 | [Hewlett Packard Enterprise](https://swejoblists.com/company/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Systems/Software Engineer 1](https://swejoblists.com/jobs/systems-software-engineer-1-hewlett-packard-enterprise-49770?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Sunnyvale | 🟡 Likely | 1d |
 | [Bask](https://swejoblists.com/company/bask?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Applied AI Engineer](https://swejoblists.com/jobs/junior-applied-ai-engineer-bask-49745?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | United States | 🟡 Likely | 1d |
