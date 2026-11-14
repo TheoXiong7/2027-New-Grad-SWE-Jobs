@@ -1,12 +1,12 @@
 # 2027 New Grad Software Engineer Jobs: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-14 06:09 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-14 14:58 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,397 open roles** from **751 companies**, **401** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**1,774 open roles** from **589 companies**, **401** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -48,6 +48,7 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1 New Grad](https://swejoblists.com/jobs/software-engineer-1-new-grad-shield-ai-49800?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Washington | 🔴 No | 1d |
 | [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer I, Software - New Grad - 6531](https://swejoblists.com/jobs/engineer-i-software-new-grad-6531-shield-ai-49799?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Washington, D.C. | 🔴 No | 1d |
 | [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer I, Software - New Grad - 6531](https://swejoblists.com/jobs/engineer-i-software-new-grad-6531-shield-ai-49798?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Washington, D.C. | 🔴 No | 1d |
+| [edmentum](https://swejoblists.com/company/edmentum?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1](https://swejoblists.com/jobs/software-engineer-1-edmentum-49986?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Bloomington | 🟠 Unlikely | 2d |
 | [City of San Francisco](https://swejoblists.com/company/city-of-san-francisco?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Contract Compliance Officer I - Office of Economic and Workforce Development (2992)](https://swejoblists.com/jobs/contract-compliance-officer-i-office-of-economic-and-workforce-development-2992-city-of-san-francisco-49970?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Francisco, CA, United States | 🟠 Unlikely | 1d |
 | [City of San Francisco](https://swejoblists.com/company/city-of-san-francisco?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Contract Compliance Officer I - Office of Economic and Workforce Development (2992)](https://swejoblists.com/jobs/contract-compliance-officer-i-office-of-economic-and-workforce-development-2992-city-of-san-francisco-49969?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Francisco, CA, United States | 🟠 Unlikely | 1d |
 | [City of San Francisco](https://swejoblists.com/company/city-of-san-francisco?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Research and Evaluation Analyst - Office of Economic and Workforce Development (1823)](https://swejoblists.com/jobs/research-and-evaluation-analyst-office-of-economic-and-workforce-development-city-of-san-francisco-49968?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Francisco, CA, United States | 🟠 Unlikely | 1d |
@@ -1011,9 +1012,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [General Dynamics Mission Systems](https://swejoblists.com/company/general-dynamics-mission-systems?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer - Entry Level](https://swejoblists.com/jobs/software-engineer-entry-level-general-dynamics-mission-systems-47185?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Manassas | 🔴 No | Oct 26 |
 | [Applied Materials](https://swejoblists.com/company/applied-materials?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Algorithm Developer II - New College Grad - Masters - Santa Clara - CA](https://swejoblists.com/jobs/algorithm-developer-ii-new-college-grad-masters-santa-clara-ca-applied-materials-47183?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Santa Clara | 🟡 Likely | Oct 26 |
 | [Applied Materials](https://swejoblists.com/company/applied-materials?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Global Software Support Engineer I](https://swejoblists.com/jobs/global-software-support-engineer-i-applied-materials-47182?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Austin | 🟡 Likely | Oct 26 |
-| [Amentum](https://swejoblists.com/company/amentum?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry Level Software Engineer - SECRET](https://swejoblists.com/jobs/entry-level-software-engineer-secret-amentum-47181?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Dahlgren | 🔴 No | Oct 26 |
 
-Showing the first 1,000 of 2,397 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,397 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 1,774 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,774 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
