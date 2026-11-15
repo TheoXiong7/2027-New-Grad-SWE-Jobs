@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineer Jobs: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-15 09:14 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-15 17:00 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
