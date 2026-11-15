@@ -1,12 +1,12 @@
 # 2027 New Grad Software Engineer Jobs: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-15 01:48 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-15 09:14 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**1,665 open roles** from **562 companies**, **430** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**1,609 open roles** from **537 companies**, **430** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -1013,7 +1013,7 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [CrossCountry Consulting](https://swejoblists.com/company/crosscountry-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Forward Deployed Software Engineer New Grad](https://swejoblists.com/jobs/forward-deployed-software-engineer-new-grad-crosscountry-consulting-47095?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Chicago | 🔴 No | Oct 27 |
 | [Amazon](https://swejoblists.com/company/amazon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Dev Engineer II - AMZ26824.2](https://swejoblists.com/jobs/software-dev-engineer-ii-amz26824-2-amazon-49566?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York City | 🟡 Likely | Oct 26 |
 
-Showing the first 1,000 of 1,665 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,665 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 1,609 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,609 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
