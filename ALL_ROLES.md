@@ -1,17 +1,18 @@
 # 2027 New Grad Software Engineer Jobs: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-15 17:00 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-15 22:44 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**1,609 open roles** from **537 companies**, **430** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**1,611 open roles** from **537 companies**, **412** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Valsoft](https://swejoblists.com/company/valsoft?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Data Platform Engineer - ANJU](https://swejoblists.com/jobs/data-platform-engineer-anju-valsoft-50047?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Beirut, Beirut Governorate, Lebanon | 🟠 Unlikely | 0d |
 | [Valnet](https://swejoblists.com/company/valnet?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Android Police - News Writer](https://swejoblists.com/jobs/android-police-news-writer-valnet-50022?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Boston | 🟠 Unlikely | 1d |
 | [Valiant Solutions](https://swejoblists.com/company/valiant-solutions?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Software Engineer](https://swejoblists.com/jobs/associate-software-engineer-valiant-solutions-50021?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Remote - USA | 🟠 Unlikely | 1d |
 | [RTI](https://swejoblists.com/company/rti?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Early-Career Platform Engineer - Cloud Engineering - DevOps - Systems Architecture](https://swejoblists.com/jobs/early-career-platform-engineer-cloud-engineering-devops-systems-architecture-rti-50020?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Durham | 🔴 No | 1d |
@@ -132,6 +133,7 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Bosch](https://swejoblists.com/company/bosch?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Specialist Cybersecurity & OT Infrastructure (w/m/div.)](https://swejoblists.com/jobs/junior-specialist-cybersecurity-ot-infrastructure-w-m-div-bosch-49701?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Linz, Oberösterreich, Austria | 🟠 Unlikely | 3d |
 | [Western Digital](https://swejoblists.com/company/western-digital?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior IT Developer](https://swejoblists.com/jobs/junior-it-developer-western-digital-49699?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Bayan Lepas, Penang, Malaysia | 🟠 Unlikely | 3d |
 | [Bask Health](https://swejoblists.com/company/bask-health?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Frontend Engineer New Grad](https://swejoblists.com/jobs/frontend-engineer-new-grad-bask-health-49689?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Remote in USA | 🟡 Likely | 3d |
+| [Bask](https://swejoblists.com/company/bask?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Backend Engineer - Platform](https://swejoblists.com/jobs/junior-backend-engineer-platform-bask-50048?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | USA | 🟡 Likely | 4d |
 | [Orlando Health](https://swejoblists.com/company/orlando-health?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Certified Medical Assistant-St. Cloud-Adult Medicine-Orlando Health Physician Associates](https://swejoblists.com/jobs/certified-medical-assistant-st-cloud-adult-medicine-orlando-health-physician-orlando-health-50035?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Saint Cloud | 🟠 Unlikely | 4d |
 | [Bask](https://swejoblists.com/company/bask?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Backend Engineer - New Grad](https://swejoblists.com/jobs/backend-engineer-new-grad-bask-50034?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | USA | 🟡 Likely | 4d |
 | [Salesforce](https://swejoblists.com/company/salesforce?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineering AMTS - College Grad](https://swejoblists.com/jobs/software-engineering-amts-college-grad-salesforce-50017?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | California | 🟡 Likely | 4d |
@@ -1010,10 +1012,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Kpler](https://swejoblists.com/company/kpler?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Data Quality Analyst](https://swejoblists.com/jobs/junior-data-quality-analyst-kpler-47115?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | London | 🟠 Unlikely | Oct 27 |
 | [CrossCountry Consulting](https://swejoblists.com/company/crosscountry-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Forward Deployed Software Engineer New Grad](https://swejoblists.com/jobs/forward-deployed-software-engineer-new-grad-crosscountry-consulting-47097?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Chicago | 🔴 No | Oct 27 |
 | [CrossCountry Consulting](https://swejoblists.com/company/crosscountry-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Forward Deployed Software Engineer New Grad](https://swejoblists.com/jobs/forward-deployed-software-engineer-new-grad-crosscountry-consulting-47096?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | NYC | 🔴 No | Oct 27 |
-| [CrossCountry Consulting](https://swejoblists.com/company/crosscountry-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Forward Deployed Software Engineer New Grad](https://swejoblists.com/jobs/forward-deployed-software-engineer-new-grad-crosscountry-consulting-47095?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Chicago | 🔴 No | Oct 27 |
-| [Amazon](https://swejoblists.com/company/amazon?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Dev Engineer II - AMZ26824.2](https://swejoblists.com/jobs/software-dev-engineer-ii-amz26824-2-amazon-49566?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York City | 🟡 Likely | Oct 26 |
 
-Showing the first 1,000 of 1,609 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,609 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 1,611 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,611 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
