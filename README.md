@@ -1,17 +1,20 @@
 # 2027 New Grad Software Engineer Jobs
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-16 06:15 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-16 18:24 UTC.
 
 This list shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely. Every open role, whatever its label, is in [ALL_ROLES.md](ALL_ROLES.md).
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**Showing 465 of 1,584 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **189 companies**, **137** added in the last 7 days. The other 1,119 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**Showing 468 of 1,604 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **189 companies**, **137** added in the last 7 days. The other 1,136 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely = how likely the employer sponsors an H-1B visa for the role. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Infrastructure Solution Engineer - ServiceNow development Experience](https://swejoblists.com/jobs/infrastructure-solution-engineer-servicenow-development-experience-syncreon-consulting-50076?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Pittsburgh, PA, United States | 🟡 Likely | 0d |
+| [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [NVIDIA Infrastructure Engineer — NVIDIA V100 or A100](https://swejoblists.com/jobs/nvidia-infrastructure-engineer-nvidia-v100-or-a100-syncreon-consulting-50075?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York, NY, United States | 🟡 Likely | 0d |
+| [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Infrastructure Solutions Engineering (AI & Automation) - Java, Spring Boot, Python, APIs](https://swejoblists.com/jobs/infrastructure-solutions-engineering-ai-automation-java-spring-boot-python-apis-syncreon-consulting-50074?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York, NY, United States | 🟡 Likely | 0d |
 | [Keysight Technologies](https://swejoblists.com/company/keysight-technologies?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [IT Engineer -Software -Entry](https://swejoblists.com/jobs/it-engineer-software-entry-keysight-technologies-50019?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Colorado Springs | 🟡 Likely | 2d |
 | [Twitch](https://swejoblists.com/company/twitch?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer I - Payments](https://swejoblists.com/jobs/software-engineer-i-payments-twitch-50011?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Francisco | 🟡 Likely | 2d |
 | [Cambridge Mobile Telematics](https://swejoblists.com/company/cambridge-mobile-telematics?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer I - Cloud](https://swejoblists.com/jobs/software-engineer-i-cloud-cambridge-mobile-telematics-50026?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Cambridge | 🟡 Likely | 3d |
