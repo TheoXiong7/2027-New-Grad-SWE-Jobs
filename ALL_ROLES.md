@@ -1,17 +1,20 @@
 # 2027 New Grad Software Engineer Jobs: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-17 02:53 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-17 13:12 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**1,629 open roles** from **540 companies**, **401** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**1,629 open roles** from **542 companies**, **394** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Eurofins](https://swejoblists.com/company/eurofins?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [\[IT Delivery Center\] Junior Test Automation Engineer](https://swejoblists.com/jobs/it-delivery-center-junior-test-automation-engineer-eurofins-50155?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Ho Chi Minh City, Ho Chi Minh, Vietnam | 🟠 Unlikely | 0d |
+| [Laborie Medical Technologies](https://swejoblists.com/company/laborie-medical-technologies?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1](https://swejoblists.com/jobs/software-engineer-1-laborie-medical-technologies-50146?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Portsmouth | 🔴 No | 0d |
+| [Wyetech](https://swejoblists.com/company/wyetech?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 0 or 1](https://swejoblists.com/jobs/software-engineer-0-or-1-wyetech-50145?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | United States | 🔴 No | 0d |
 | [CrossCountry Consulting](https://swejoblists.com/company/crosscountry-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Forward Deployed Software Engineer](https://swejoblists.com/jobs/junior-forward-deployed-software-engineer-crosscountry-consulting-50132?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Philadelphia | 🔴 No | 0d |
 | [CrossCountry Consulting](https://swejoblists.com/company/crosscountry-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Forward Deployed Software Engineer](https://swejoblists.com/jobs/junior-forward-deployed-software-engineer-crosscountry-consulting-50131?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Georgia | 🔴 No | 0d |
 | [CrossCountry Consulting](https://swejoblists.com/company/crosscountry-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Forward Deployed Software Engineer](https://swejoblists.com/jobs/junior-forward-deployed-software-engineer-crosscountry-consulting-50130?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | McLean | 🔴 No | 0d |
@@ -1009,9 +1012,6 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [AECOM](https://swejoblists.com/company/aecom?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry-Level Highway Design Engineer](https://swejoblists.com/jobs/entry-level-highway-design-engineer-aecom-47355?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Pittsburgh, PA, United States | 🔴 No | Oct 27 |
 | [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer I, Software Test and Automation (R6216) - New Grad](https://swejoblists.com/jobs/engineer-i-software-test-and-automation-r6216-new-grad-shield-ai-47313?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Washington, D.C. | 🟠 Unlikely | Oct 27 |
 | [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer I, Flight Test (R6219) - New Grad](https://swejoblists.com/jobs/engineer-i-flight-test-r6219-new-grad-shield-ai-47312?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Diego, California | 🟠 Unlikely | Oct 27 |
-| [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Engineer I, Software Integration (R6214) - New Grad](https://swejoblists.com/jobs/engineer-i-software-integration-r6214-new-grad-shield-ai-47311?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Washington, D.C. | 🟠 Unlikely | Oct 27 |
-| [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Development Engineer - New Graduate](https://swejoblists.com/jobs/software-development-engineer-new-graduate-shield-ai-47309?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Diego, California | 🟠 Unlikely | Oct 27 |
-| [Agave](https://swejoblists.com/company/agave?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Full-Stack Software Engineer New Grad](https://swejoblists.com/jobs/full-stack-software-engineer-new-grad-agave-47296?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | SF | 🟢 Yes | Oct 27 |
 
 Showing the first 1,000 of 1,629 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 1,629 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
