@@ -1,12 +1,12 @@
 # 2027 New Grad Software Engineer Jobs: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-21 03:09 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-21 12:31 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**2,222 open roles** from **673 companies**, **390** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**2,277 open roles** from **704 companies**, **390** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -50,6 +50,7 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [AECOM](https://swejoblists.com/company/aecom?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Engineer - Bridges & Structures / Asystent Projektanta Mostów i Konstrukcji](https://swejoblists.com/jobs/junior-engineer-bridges-structures-asystent-projektanta-mostow-i-konstrukcji-aecom-50696?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Kraków, Lesser Poland Voivodeship, Poland | 🟠 Unlikely | 1d |
 | [SOCOTEC Global](https://swejoblists.com/company/socotec-global?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Ingénieur Commercial / Business Developer Nucléaire H/F](https://swejoblists.com/jobs/ingenieur-commercial-business-developer-nucleaire-h-f-socotec-global-50692?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Rouen, , France | 🟠 Unlikely | 1d |
 | [TOMRA](https://swejoblists.com/company/tomra?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Platform Engineer\*](https://swejoblists.com/jobs/platform-engineer-tomra-50683?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Mülheim-Kärlich, RP, Germany | 🟠 Unlikely | 1d |
+| [Pinterest](https://swejoblists.com/company/pinterest?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Solutions Engineer - Ads Product & Innovation](https://swejoblists.com/jobs/solutions-engineer-ads-product-innovation-pinterest-50837?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | San Francisco, CA, US; Remote, US | 🟡 Likely | 1d |
 | [Xfinity](https://swejoblists.com/company/xfinity?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Entry Level C++ Software Engineer- Reston - VA- ONSITE 2X Week- FreeWheel](https://swejoblists.com/jobs/entry-level-c-software-engineer-reston-va-onsite-2x-week-freewheel-xfinity-50801?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Reston | 🟡 Likely | 2d |
 | [Viasat](https://swejoblists.com/company/viasat?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Software Engineer - Early Career](https://swejoblists.com/jobs/associate-software-engineer-early-career-viasat-50800?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Carlsbad | 🟠 Unlikely | 2d |
 | [Target](https://swejoblists.com/company/target?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Technical Developer - Owned Brands - Intimates/Sleep](https://swejoblists.com/jobs/associate-technical-developer-owned-brands-intimates-sleep-target-50799?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Minneapolis | 🟡 Likely | 2d |
@@ -1011,9 +1012,8 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Cambridge Associates](https://swejoblists.com/company/cambridge-associates?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Jr. Developer](https://swejoblists.com/jobs/jr-developer-cambridge-associates-48124?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Boston | 🟡 Likely | Oct 30 |
 | [Aerospace](https://swejoblists.com/company/aerospace?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [IC 2027 Software Integration Engineer](https://swejoblists.com/jobs/ic-2027-software-integration-engineer-aerospace-48123?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Chantilly | 🔴 No | Oct 30 |
 | [Zebra Technologies](https://swejoblists.com/company/zebra-technologies?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer - Professional I](https://swejoblists.com/jobs/software-engineer-professional-i-zebra-technologies-48114?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Holtsville | 🟡 Likely | Oct 30 |
-| [Urban Science](https://swejoblists.com/company/urban-science?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Software Engineer](https://swejoblists.com/jobs/associate-software-engineer-urban-science-48113?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Detroit | 🔴 No | Oct 30 |
 
-Showing the first 1,000 of 2,222 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,222 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+Showing the first 1,000 of 2,277 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,277 open roles on [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 ---
 
