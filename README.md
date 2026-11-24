@@ -1,17 +1,18 @@
 # 2027 New Grad Software Engineer Jobs
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-24 02:52 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-24 14:45 UTC.
 
 This list shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely. Every open role, whatever its label, is in [ALL_ROLES.md](ALL_ROLES.md).
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**Showing 678 of 2,422 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **283 companies**, **120** added in the last 7 days. The other 1,744 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**Showing 679 of 2,431 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **284 companies**, **121** added in the last 7 days. The other 1,752 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely = how likely the employer sponsors an H-1B visa for the role. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Serko](https://swejoblists.com/company/serko?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1](https://swejoblists.com/jobs/software-engineer-1-serko-51068?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Seattle | 🟡 Likely | 0d |
 | [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [ServiceNow Engineering - CMDB (Configuration Management Database) - W](https://swejoblists.com/jobs/servicenow-engineering-cmdb-configuration-management-database-w-syncreon-consulting-51031?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Pittsburgh, PA, United States | 🟡 Likely | 1d |
 | [WebAI](https://swejoblists.com/company/webai?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Jr Software Developer](https://swejoblists.com/jobs/jr-software-developer-webai-51027?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Austin, TX | 🟡 Likely | 1d |
 | [Syncreon Consulting](https://swejoblists.com/company/syncreon-consulting?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Java developer - Kafka, MQ, FIX, FpML - 15+ Years of experience (Full time)](https://swejoblists.com/jobs/java-developer-kafka-mq-fix-fpml-15-years-of-experience-full-time-syncreon-consulting-51020?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York, NY, United States | 🟡 Likely | 1d |
