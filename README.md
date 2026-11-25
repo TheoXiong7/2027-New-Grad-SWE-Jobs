@@ -1,17 +1,18 @@
 # 2027 New Grad Software Engineer Jobs
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-25 00:35 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad) (free, no account). Last update: 2026-11-25 11:10 UTC.
 
 This list shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely. Every open role, whatever its label, is in [ALL_ROLES.md](ALL_ROLES.md).
 
 Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://github.com/TheoXiong7/Summer-2027-SWE-Internships).
 
-**Showing 675 of 2,412 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **282 companies**, **116** added in the last 7 days. The other 1,737 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
+**Showing 675 of 2,415 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **283 companies**, **117** added in the last 7 days. The other 1,740 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=full-time](https://swejoblists.com/?type=full-time&utm_source=github&utm_medium=readme&utm_campaign=new-grad).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely = how likely the employer sponsors an H-1B visa for the role. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Veeva Systems](https://swejoblists.com/company/veeva-systems?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Associate Software Engineer New Grad](https://swejoblists.com/jobs/associate-software-engineer-new-grad-veeva-systems-51228?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Raleigh | 🟡 Likely | 0d |
 | [Serko](https://swejoblists.com/company/serko?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer 1](https://swejoblists.com/jobs/software-engineer-1-serko-51210?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Seattle | 🟡 Likely | 1d |
 | [Northwestern Mutual](https://swejoblists.com/company/northwestern-mutual?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer](https://swejoblists.com/jobs/software-engineer-northwestern-mutual-51208?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Milwaukee | 🟡 Likely | 1d |
 | [Northwest Bank](https://swejoblists.com/company/northwest-bank?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer II](https://swejoblists.com/jobs/software-engineer-ii-northwest-bank-51207?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Buffalo | 🟡 Likely | 1d |
@@ -686,7 +687,6 @@ Looking for internships? See [TheoXiong7/Summer-2027-SWE-Internships](https://gi
 | [Goaly](https://swejoblists.com/company/goaly?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [AI Research Scientist - Early Career (PHD/MS)](https://swejoblists.com/jobs/ai-research-scientist-early-career-phd-ms-goaly-47346?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Palo Alto, CA, USA | 🟢 Yes | Oct 28 |
 | [Goaly](https://swejoblists.com/company/goaly?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Applied AI Engineer — Early Career](https://swejoblists.com/jobs/applied-ai-engineer-early-career-goaly-47345?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Palo Alto, CA, USA | 🟢 Yes | Oct 28 |
 | [Bags](https://swejoblists.com/company/bags?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Junior Full Stack Engineer](https://swejoblists.com/jobs/junior-full-stack-engineer-bags-47338?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | New York | 🟡 Likely | Oct 28 |
-| [Aquatic Capital Management](https://swejoblists.com/company/aquatic-capital-management?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | [Software Engineer, Early Career](https://swejoblists.com/jobs/software-engineer-early-career-aquatic-capital-management-47078?utm_source=github&utm_medium=readme&utm_campaign=new-grad) | Chicago; New York | 🟡 Likely | Oct 27 |
 
 ---
 
